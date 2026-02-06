@@ -1,0 +1,71 @@
+# Data files (too large for git)
+*.duckdb
+*.csv
+nifty_data.duckdb
+nifty_options_data.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Logs
+*.log
+logs/
+
+# Images and documents (optional - can be tracked if needed)
+# *.png
+# *.jpg
+# *.jpeg
+# *.pdf
+# *.docx
+# *.xlsx
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Backtest results (large files)
+backtest_results_*.csv
+
+# Windows shortcuts
+*.lnk

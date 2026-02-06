@@ -27,8 +27,8 @@ kaleido (optional, for chart images)
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/RohithBasha/nifty-options-backtester.git
-cd nifty-options-backtester
+git clone https://github.com/RohithBasha/nifty-oprions-backtesting-platform.git
+cd nifty-oprions-backtesting-platform
 ```
 
 2. Install dependencies:
